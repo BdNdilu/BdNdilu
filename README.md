@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Bodrick Ndilu
 
 🎓 Computer Science student at Tshwane University of Technology (TUT)  
-🚀 Aspiring Software Engineer | Future Full-Stack Developer  
-💻 Backend-Focused | Java Enthusiast | PL/SQL Learner  
-🌍 Passionate about solving real-world problems through software
+🚀 Aspiring Software Engineer | Backend-Focused | Curious about AI and full-stack development  
+💻 Java is my primary language | Passionate about backend development | Exploring PL/SQL  
+🌍 I enjoy building software and applications that solve real-world problems  
 
 ---
 
@@ -12,22 +12,24 @@
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/PLSQL-005A9C?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Databases**  
-Oracle • MySQL
+Oracle • SQL+ • MySQL
 
-**Tools & Frameworks**  
-Git • VS Code • NetBeans • IntelliJ • Spring Boot *(learning)*
+**Tools & Environments**  
+Notepad++ • NetBeans • Git • Linux/Ubuntu
+
+**Frameworks / Learning**  
+Spring Boot *(in progress)*
 
 ---
 
 ## 📘 Featured Projects
-
-- 🚀 `Java-Student-System`: A CLI student management system using OOP & file handling
-- 🧾 `PLSQL-Order-Processing`: Sample database procedures & triggers for inventory/order processing
-- 🌐 `Mini-Web-App`: Basic HTML/CSS/JS interface with a Java backend *(coming soon)*
+*Coming soon...*
 
 ---
 
@@ -39,6 +41,5 @@ Git • VS Code • NetBeans • IntelliJ • Spring Boot *(learning)*
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link) *(replace with your link)*
-- 📧 your.email@example.com *(replace with real email)*
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/bodrick-landu-ndilu-57034a295)  
+- 📧 bodrick.ndilu@gmail.com
