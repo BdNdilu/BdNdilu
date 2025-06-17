@@ -32,11 +32,12 @@
 
 ## 🐧 Linux & OS Knowledge
 
-- **System Administration**: Managing users, groups, and file permissions  
-- **Shell Commands**: Navigation and scripting (`date`, `cal`, `df`, `free`, `umask`, etc.)  
-- **Package Management**: Installing, removing, and updating software packages  
-- **Networking Basics**: Monitoring connections and securing remote access  
-- **Process Management**: Viewing and managing running processes  
+- **Shell Navigation & Basic Commands** → Working with `date`, `cal`, `df`, `free`, `exit`
+- **File & Directory Management** → Creating, modifying, and handling removable storage
+- **System Administration** → Managing users, groups, and file permissions
+- **Process Management** → Viewing & controlling processes, handling signals
+- **Application & Package Management** → Installing, removing, and updating software packages
+- **Security & Permissions** → Understanding `umask`, ownership, and permission management (`chmod`, `chgrp`, `chown`)
 
 ---
 
