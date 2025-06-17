@@ -30,10 +30,11 @@
 
 ## 💻 Computer Fundamentals  
 
-I have a solid understanding of essential computing concepts, including:  
+I have a strong understanding of **computer systems and architecture**, including:  
 - **Operating Systems** → Managing system resources, file systems, and kernel interactions  
 - **File Systems** → Understanding storage structures, partitioning, and data retrieval  
 - **Software & Hardware Integration** → How applications interact with hardware components  
+- **Power Systems & Troubleshooting** → Diagnosing and fixing hardware and software issues  
 
 ---
 
@@ -60,32 +61,33 @@ I’ve gained hands-on experience in **Linux system administration**, focusing o
 
 ## 🚀 Current Learning & Goals  
 
-- **Object-Oriented Programming (OOP)** → Mastering Java’s core principles for clean, scalable development  
+- **Object-Oriented Programming (OOP)** → Mastering Java’s core principles for scalable development  
 - **Advanced OOP Concepts** → Exploring design patterns, SOLID principles, and enterprise architecture  
 - **Internet Programming in Java** → Building RESTful web services and server-side applications  
-- **Mobile Computing** → Learning to develop mobile apps using Java-based frameworks  
-- **Cloud Computing & Fundamentals** → Exploring AWS, Docker, CI/CD pipelines, and cloud security
+- **Mobile Computing** → Developing mobile apps using Java-based frameworks  
+- **Cloud Computing & Fundamentals** → Exploring AWS, Docker, CI/CD pipelines, and cloud security  
 - **Amazon Junior Software Developer Professional Certificate** → Enrolled in **Coursera**, focusing on **real-world software engineering practices**  
+
+I'm actively sharpening my **backend development** skills while expanding into **full-stack and AI-related technologies** 🚀  
+
 ---
 
 ## 🎓 Certifications & Achievements  
 
 - **CCNAv7: Introduction to Networks** → Completed through Cisco Networking Academy (May 2024)  
+- **Amazon Junior Software Developer Professional Certificate** → Currently enrolled in Coursera  
 
 ---
 
 ## 📘 Projects & Achievements  
 
 *Coming soon...*  
-(Will include featured assignments, personal projects, and GitHub contributions)  
 
 ---
 
 ## 📈 GitHub Stats  
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BdNdilu&show_icons=true&theme=tokyonight)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BdNdilu&show_icons=true&theme=tokyonight)  
 
 ---
 
