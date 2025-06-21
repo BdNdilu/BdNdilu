@@ -61,11 +61,11 @@ I’ve gained hands-on experience in **Linux system administration**, focusing o
 
 ## 🚀 Current Learning & Goals  
 
-- **Object-Oriented Programming (OOP)** → Mastering Java’s core principles for scalable development  
-- **Advanced OOP Concepts** → Exploring design patterns, SOLID principles, and enterprise architecture  
-- **Internet Programming in Java** → Building RESTful web services and server-side applications  
-- **Mobile Computing** → Developing mobile apps using Java-based frameworks  
-- **Cloud Computing & Fundamentals** → Exploring AWS, Docker, CI/CD pipelines, and cloud security  
+- **Object-Oriented Programming (OOP)**   
+- **Advanced OOP Concepts**  
+- **Internet Programming in Java**  
+- **Mobile Computing**  
+- **Cloud Computing & Fundamentals**  
 - **Amazon Junior Software Developer Professional Certificate** → Enrolled in **Coursera**, focusing on **real-world software engineering practices**  
 
 I'm actively sharpening my **backend development** skills while expanding into **full-stack and AI-related technologies** 🚀  
