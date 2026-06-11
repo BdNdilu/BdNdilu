@@ -1,93 +1,92 @@
-# 👋 Hi, I'm Bodrick  
+# 👋 Hi, I'm Bodrick Ndilu Landu  
 
 🎓 **Computer Science student at Tshwane University of Technology (TUT)**  
 🚀 **Aspiring Software Engineer** | Backend-Focused | Curious about AI & Full-Stack Development  
-💻 **Java is my primary language** | Passionate about backend development | Exploring PL/SQL and databases  
-🌍 I enjoy building software and applications that solve real-world problems  
+☕ Started with **Java**, now expanding into all fundamentals of **Software Engineering**  
+🌍 Career-transition professional, building solutions that solve real-world problems  
 
 ---
 
-## 🛠️ Technical Skills  
+## 🛠️ Technical Skills ⚙️  
 
 ### 🧠 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![PL/SQL](https://img.shields.io/badge/PLSQL-005A9C?style=for-the-badge&logo=oracle&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+☕ Java | 🧮 PL/SQL | 💾 SQL | 🌐 HTML5 | 🎨 CSS3 | ⚡ JavaScript  
 
-### **Databases**  
-- Oracle, SQL+, MySQL  
+### 🗄️ Databases  
+- Oracle SQL+, PL/SQL  
 
-### **Tools & Environments**  
-- Git, NetBeans, Notepad++, Linux/Ubuntu  
+### 🧰 Tools & Environments  
+- 🌀 Git (beginner, actively learning version control best practices)  
+- 🖥️ NetBeans, Notepad++, Atom  
+- 🐧 Linux/Ubuntu, 📡 Cisco Packet Tracer  
 
-### **Frameworks & Currently Learning**  
+### 🌱 Frameworks & Currently Learning  
 - Spring Boot (in progress)  
 
 ---
 
-## 💻 Computer Fundamentals  
+## 📘 Projects 💻  
 
-I have a strong understanding of **computer systems and architecture**, including:  
-- **Operating Systems** → Managing system resources, file systems, and kernel interactions  
-- **File Systems** → Understanding storage structures, partitioning, and data retrieval  
-- **Software & Hardware Integration** → How applications interact with hardware components  
-- **Power Systems & Troubleshooting** → Diagnosing and fixing hardware and software issues  
+- **ATM Simulation App** (Java OOP)  
+  💳 Simulates banking transactions and user interaction. Demonstrates classes, inheritance, polymorphism, exception handling, and file manipulation.
 
----
+- **SA Elections Simulation** (Java Console App)  
+  🗳️ Validates IDs, counts votes, and displays election results using Java I/O, string manipulation, and control structures.
 
-## 🌐 Networking Basics  
+- **Exception Handling Demo** (Java GUI)  
+  ⚠️ Built custom exceptions (`InvalidIDException`, `InSufficientDetailsException`, `NotNameOrSurnameException`) to validate user input in a GUI program with JOptionPane.
 
-Certified in **CCNAv7: Introduction to Networks** through Cisco Networking Academy (May 2024). My networking knowledge covers:  
-- **Network Architecture** → Basics of TCP/IP, LAN/WAN configurations  
-- **Network Security** → Fundamentals of securing network traffic and preventing cyber threats  
-- **Data Transmission** → Understanding routing, switching, and protocols  
+- **Farmer to Fork** (Software Engineering Fundamentals)  
+  🌾 Produced a requirements specification including functional decomposition, business process modeling, use case diagrams, domain class diagrams, sequence/state diagrams, and CRUD matrices.
 
----
-
-## 🐧 Linux & OS Knowledge  
-
-I’ve gained hands-on experience in **Linux system administration**, focusing on:  
-- **Shell Navigation & Basic Commands** → Working with `date`, `cal`, `df`, `free`, `exit`  
-- **File & Directory Management** → Creating, modifying, and handling removable storage  
-- **System Administration** → Managing users, groups, and file permissions  
-- **Process Management** → Viewing & controlling processes, handling signals  
-- **Application & Package Management** → Installing, removing, and updating software packages  
-- **Security & Permissions** → Understanding `umask`, ownership, and permission management (`chmod`, `chgrp`, `chown`)  
+- **Database Programming Exercises** (Oracle SQL+ / PL/SQL)  
+  🗄️ Implemented anonymous blocks, procedures, functions, records, cursors, and exception handling for CRUD operations and reporting tasks.
 
 ---
 
-## 🚀 Current Learning & Goals  
+## 🎓 Certifications & Achievements 🏅  
 
-- **Object-Oriented Programming (OOP)**   
-- **Advanced OOP Concepts**  
-- **Internet Programming in Java**  
-- **Mobile Computing**  
-- **Cloud Computing & Fundamentals**  
-- **Amazon Junior Software Developer Professional Certificate** → Enrolled in **Coursera**, focusing on **real-world software engineering practices**  
-
-I'm actively sharpening my **backend development** skills while expanding into **full-stack and AI-related technologies** 🚀  
+- CCNAv7: Introduction to Networks → Cisco Networking Academy (2024)  
+- Amazon Junior Software Developer Professional Certificate → Coursera (in progress)  
+- Oracle Certified Java SE 11 Developer → Planned  
 
 ---
 
-## 🎓 Certifications & Achievements  
+## 🔄 Career Transition 🌱  
 
-- **CCNAv7: Introduction to Networks** → Completed through Cisco Networking Academy (May 2024)  
-- **Amazon Junior Software Developer Professional Certificate** → Currently enrolled in Coursera  
+I bring maturity and reliability from my earlier career in administration, end‑user computing, and IT support. After years of professional experience outside core software development, I chose to transition into software engineering to pursue my passion for technology. This journey reflects my adaptability, discipline, and determination to build impactful solutions through code.
 
 ---
 
-## 📘 Projects & Achievements  
+## 🚀 Career Goals 🎯  
 
-*Coming soon...*  
+I am transitioning into software engineering with the goal of becoming a **complete software engineer**.  
+
+☕ My journey began with **Java**, where I built a strong foundation in object‑oriented programming.  
+🧩 I am now expanding into other **important software engineering fundamentals** — including **SQL/PLSQL for databases**, and **basic web development (HTML, CSS, JavaScript)** to understand how applications connect to the front end.  
+
+🌐 To strengthen my versatility, I plan to learn **multiple programming languages and frameworks** beyond Java — such as **Python, C#, and others widely used in software engineering** — so I can adapt to different ecosystems and project needs.  
+🤖 Along the way, I remain curious about **AI** and how it can be applied to solve real‑world problems.  
+
+I am eager to gain **hands‑on experience in industry projects** through internships or junior developer roles, where I can learn, contribute, and grow alongside experienced professionals.
+
+---
+
+## 📚 Learning Now  
+
+- 🌀 **Git** → Learning version control and collaboration workflows  
+- 🌱 **Spring Boot** → Exploring backend frameworks for scalable applications  
+- 🤖 **AI Fundamentals** → Understanding how artificial intelligence connects with software engineering  
+- 🌐 **Full‑Stack Concepts** → Gradually moving from backend logic to frontend integration  
+
+💡 Every new concept I learn brings me closer to becoming a **complete software engineer** — one who understands how systems connect from code to cloud.  
 
 ---
 
 ## 📈 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BdNdilu&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BdNdilu&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -95,3 +94,4 @@ I'm actively sharpening my **backend development** skills while expanding into *
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bodrick-landu-ndilu-57034a295)  
 - 📧 **Email**: bodrick.ndilu@gmail.com  
+- 📱 **Phone**: +27 65 393 9463 | +27 73 676 5012  
