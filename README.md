@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bodrick Ndilu  
+# 👋 Hi, I'm Bodrick  
 
 🎓 **Computer Science student at Tshwane University of Technology (TUT)**  
 🚀 **Aspiring Software Engineer** | Backend-Focused | Curious about AI & Full-Stack Development  
