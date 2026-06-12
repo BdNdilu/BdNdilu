@@ -28,10 +28,10 @@
 ## 📘 Projects 💻  
 
 - **ATM Simulation App** (Java OOP)  
-  💳 Simulates banking transactions and user interaction. Demonstrates classes, inheritance, polymorphism, exception handling, and file manipulation.
+  💳 Simulates banking transactions and user interaction. Demonstrates classes, inheritance, polymorphism and exception handling.
 
 - **SA Elections Simulation** (Java Console App)  
-  🗳️ Validates IDs, counts votes, and displays election results using Java I/O, string manipulation, and control structures.
+  🗳️ Validates IDs, counts votes, and displays election results using string manipulation, and control structures.
 
 - **Exception Handling Demo** (Java GUI)  
   ⚠️ Built custom exceptions (`InvalidIDException`, `InSufficientDetailsException`, `NotNameOrSurnameException`) to validate user input in a GUI program with JOptionPane.
@@ -63,7 +63,7 @@ I bring maturity and reliability from my earlier career in administration, end�
 I am transitioning into software engineering with the goal of becoming a **complete software engineer**.  
 
 ☕ My journey began with **Java**, where I built a strong foundation in object‑oriented programming.  
-🧩 I am now expanding into other **important software engineering fundamentals** — including **SQL/PLSQL for databases**, and **basic web development (HTML, CSS, JavaScript)** to understand how applications connect to the front end.  
+🧩 Having learned **SQL/PLSQL for databases** and **web development (HTML, CSS, JavaScript)**, I am eager to keep expanding my skills and mastering these fundamentals to better understand how applications interact with the front end.
 
 🌐 To strengthen my versatility, I plan to learn **multiple programming languages and frameworks** beyond Java — such as **Python, C#, and others widely used in software engineering** — so I can adapt to different ecosystems and project needs.  
 🤖 Along the way, I remain curious about **AI** and how it can be applied to solve real‑world problems.  
