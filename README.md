@@ -1,3 +1,5 @@
+![Bodrick Ndilu Landu — Software Engineering Journey](https://github.com/BdNdilu/BdNdilu/blob/main/Copilot_20260612_122005.png)
+
 # 👋 Hi, I'm Bodrick 
 
 🎓 **Computer Science student at Tshwane University of Technology (TUT)**  
