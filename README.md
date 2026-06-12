@@ -1,5 +1,5 @@
-![Bodrick Ndilu Landu — Software Engineering Journey](https://github.com/BdNdilu/BdNdilu/blob/main/Copilot_20260612_122005.png)
-<img src="https://github.com/BdNdilu/BdNdilu/blob/main/Copilot_20260612_122005.png" width="100%" alt="Bodrick Ndilu Landu — Software Engineering Journey">
+![Bodrick Ndilu Landu — Software Engineering Journey]
+<img src="https://github.com/BdNdilu/BdNdilu/blob/main/Copilot_20260612_122005.png" width="60%" alt="Bodrick Ndilu Landu — Software Engineering Journey">
 
 # 👋 Hi, I'm Bodrick 
 
