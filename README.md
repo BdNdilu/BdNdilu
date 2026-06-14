@@ -1,5 +1,5 @@
 ![Bodrick Ndilu Landu — Software Engineering Journey]
-<img src="C:\Users\bdndi\Pictures\BdswEng.png" width="100%" alt="Bodrick Ndilu Landu — Software Engineering Journey">
+<img src=BdswEng.png width="100%" alt="Bodrick Ndilu Landu — Software Engineering Journey">
 
 # 👋 Hi, I'm Bodrick 
 
